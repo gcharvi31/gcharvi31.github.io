@@ -1,2 +1,2 @@
-# Website for Neha Gupta, PhD
+Repository for personal website
 
